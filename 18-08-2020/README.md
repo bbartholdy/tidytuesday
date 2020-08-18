@@ -1,3 +1,3 @@
 # TidyTuesday: Extinct plants
 
-![plant-plot.png]
+![](plant-plot.png)
