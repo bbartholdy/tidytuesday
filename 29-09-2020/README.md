@@ -4,15 +4,13 @@
 
 This week I went in a completely different direction. Can you think of a singer that would be more successful than Taylor Swift and Beyonce?
 
-Meet Tayonce, a hit song generator guaranteed to send you straight to the tops of the charts all over the world!
+Meet **Tayonc&eacute;**, a hit song generator guaranteed to send you straight to the tops of the charts all over the world!
 
 ## Installing the package
 
 ```r
 devtools::install_github("bbartholdy/tayonce")
 ```
-
-or download the package from the [GitHub repository](https://github.com/bbartholdy/tayonce/)
 
 ## Generate your first (of many) hit song!
 
