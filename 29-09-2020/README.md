@@ -6,6 +6,13 @@ This week I went in a completely different direction. Can you think of a singer 
 
 Meet **Tayonc&eacute;**, a hit song generator guaranteed to send you straight to the tops of the charts all over the world!
 
+Create instant classics, such as:
+
+ - Why my name always up in your mouth?
+ - The risk that I'm taking
+ - Everybody on your feet 2x
+ - You could send them missiles, I'ma send my goons
+
 In this repository you can find the [code](https://github.com/bbartholdy/tidytuesday/blob/master/29-09-2020/tayonce_lyrics.R) used extract the lyrics. The package repository can be found [here](https://github.com/bbartholdy/tayonce).
 
 ## Installing the package
