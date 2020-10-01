@@ -13,7 +13,7 @@ Create instant classics, such as:
  - Everybody on your feet 2x
  - You could send them missiles, I'ma send my goons
 
-In this repository you can find the [code](https://github.com/bbartholdy/tidytuesday/blob/master/29-09-2020/tayonce_lyrics.R) used extract the lyrics. The package repository can be found [here](https://github.com/bbartholdy/tayonce).
+In this repository you can find the [code](https://github.com/bbartholdy/tidytuesday/blob/master/29-09-2020/tayonce_lyrics.R) used extract the lyrics. The package repository can be found [here](https://github.com/bbartholdy/tayonce). The data were provided by [Rosie Baillie](https://twitter.com/Rosie_Baillie_) and [Dr. Sara Stoudt](https://twitter.com/sastoudt).
 
 ## Installing the package
 
