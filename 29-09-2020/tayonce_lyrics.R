@@ -17,3 +17,16 @@ colnames(beyonce) <- col_names
 colnames(taylor_swift) <- col_names
 
 lyrics <- rbind(beyonce, taylor_swift)
+
+# create titles
+taylor_swift_titles <- taylor_swift_lyrics %>%
+  tidytext::unnest_tokens(word, Title) %>%
+  count(word) %>%
+  select(word)
+
+beyonce_titles <- beyonce_lyrics %>%
+  tidytext::unnest_tokens(word, song_name) %>%
+  count(word) %>%
+  select(word)
+
+titles <- rbind(beyonce_titles, taylor_swift_titles)
